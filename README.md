@@ -1,6 +1,6 @@
-<!-- Gia  -->
+<!-- Gia Tuan  -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/Giatuan.svg" width="1200" alt="Gia-Tuan" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -75,6 +75,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Gia-Tuan-email" />
   </a>
   <a href="mailto:https://zalo.me/0375200425" target="top">
+   <img src="<https://img.icons8.com/color/48/null/zalo.png/>" alt="Gia-Tuan-zalo" />
     <img src="<https://img.icons8.com/color/48/null/zalo.png/>" alt="Gia-Tuan-zalo" />
   </a>
 </div>
