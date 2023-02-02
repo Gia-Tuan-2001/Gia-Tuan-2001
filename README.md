@@ -75,8 +75,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Gia-Tuan-email" />
   </a>
   <a href="mailto:https://zalo.me/0375200425" target="top">
-   <img src="<https://img.icons8.com/color/48/null/zalo.png/>" alt="Gia-Tuan-zalo" />
-    <img src="<https://img.icons8.com/color/48/null/zalo.png/>" alt="Gia-Tuan-zalo" />
+   <img src="https://img.icons8.com/dusk/64/null/zalo.png"/>" alt="Gia-Tuan-zalo" />
   </a>
 </div>
 
