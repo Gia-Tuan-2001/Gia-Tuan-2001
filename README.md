@@ -1,8 +1,7 @@
 <!-- Gia  -->
 <a href="#" target="_blank">
-  <img src="svg/Giatuan.svg" width="1200" alt="Gia-Tuan" />
+  <img src="svg/Giatuan.svg" width="1200" height="150" alt="GiaTuan" />
 </a>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
