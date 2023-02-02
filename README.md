@@ -1,6 +1,6 @@
 <!-- Gia  -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/Giatuan.svg" width="846" height="150" alt="Gia-Tuan" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
