@@ -59,7 +59,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="[https://facebook.com/trungquandev](https://www.facebook.com/gia.tuan.334491/)" target="blank">
+  <a href="https://www.facebook.com/gia.tuan.334491" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Gia-Tuan-facebook" />
   </a>
   <a href="mailto:Giatuan140801@gmail.com" target="top">
