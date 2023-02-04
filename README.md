@@ -74,7 +74,7 @@
 <br>
 <p>
   <a href="" target="_blank">
-    <strong>I am currently a 4th year student</strong>
+    <strong>I am currently a 4th year student </strong>
   </a>
 </p>
 
